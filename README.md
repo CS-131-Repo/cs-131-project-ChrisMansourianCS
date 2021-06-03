@@ -15,3 +15,4 @@
 ## Purpose of Repository
 
 This repository holds the code to the graph that I made for my presentation.
+Youtube video link: https://www.youtube.com/watch?v=B1W2D7CGzaU
